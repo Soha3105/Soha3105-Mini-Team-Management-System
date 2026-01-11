@@ -1,5 +1,5 @@
 # Soha3105-Mini-Team-Management-System
-Mini Team Management System 🧑‍🤝‍🧑
+Mini Team Management System 
 This is a simple console-based Python project that I built using Google Colab.
 The idea behind this project was to understand how basic team management works and to practice core Python concepts through a real-life use case.
 The system allows a team lead to add team members, assign tasks, update task status, and check overall team progress using a menu-driven interface.
